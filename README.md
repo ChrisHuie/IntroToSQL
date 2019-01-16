@@ -1,4 +1,4 @@
-# 2019 Beginner's Web Dev Workshop
+# Intro to SQL and Relational Databases
 
 Brought to you by Galvanize. Learn more about the way we teach at [galvanize.com](http://galvanize.com) 
 or chat with [Lara Sadri](mailto:lara.sadri@galvanize.com) 🌵 our Phoenix Admissions Advisor if you have questions.
