@@ -22,6 +22,7 @@ or chat with [Lara Sadri](mailto:lara.sadri@galvanize.com) 🌵 our Phoenix Admi
 - Jan. 23rd (Wed) - [Django Introduction](https://www.meetup.com/Phoenix-Python-Meetup-Group/events/257925849/)
 - Jan. 24th-25th (Thur-Fri) - [2019 Southwest Robotics Symposium](https://swrobotics.engineering.asu.edu/)
 - Jan. 26th (Sat) - [IoT DevFest ($20)](https://ti.to/iot-devfest/iot-devfest-2019/discount/MEETUPMEETUP)
+- Feb. 5th (Tue) - [Intermediate SQL with Microsoft SQL Server](https://www.eventbrite.com/e/intermediate-sql-with-microsoft-sql-server-tickets-54950673945)
 
 ---
 
