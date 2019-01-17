@@ -12,9 +12,7 @@ or chat with [Lara Sadri](mailto:lara.sadri@galvanize.com) 🌵 our Phoenix Admi
 
 ---
 
-## Some Upcoming Phoenix Events:
-- Jan. 15th (Tue) - [Learn to Code! Intro to SQL and Relational Databases](https://www.eventbrite.com/e/learn-to-code-intro-to-sql-and-relational-databases-tickets-54216286372)
-- Jan. 16th (Wed) - [Data Analyst to Data Scientist: Learn Python with an Excel Mindset](https://www.eventbrite.com/e/data-analyst-to-data-scientist-learn-python-with-an-excel-mindset-tickets-54504342957)
+## Some Upcoming Phoenix Events:)
 - Jan. 17th (Thur) - [CES Roundup & Data Science Future Trends](https://www.meetup.com/phxmobi/events/258084869/)
 - Jan. 19th (Sat) - [Learn to Code in 2019! JavaScript Foundations](https://www.eventbrite.com/e/learn-to-code-in-2019-javascript-foundations-tickets-54285590663)
 - Jan. 22nd (Tue) - [Common Machine Learning Mistakes & Full-Stack Data Science at Infusionsoft](https://www.eventbrite.com/e/common-machine-learning-mistakes-full-stack-data-science-at-infusionsoft-tickets-54791999345)
